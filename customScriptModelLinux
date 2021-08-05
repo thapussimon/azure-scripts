@@ -1,0 +1,5 @@
+{
+    "fileUris":["github-raw-link"],
+    "commandToExecute":"./filename.sh"
+
+}
