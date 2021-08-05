@@ -1,3 +1,5 @@
+#provide the github url link & save the file as a json file & upload in azure cloud shell 
+
 {
     "fileUris":["github-raw-link"],
     "commandToExecute":"./filename.sh"
